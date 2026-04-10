@@ -377,9 +377,9 @@ export function Footer() {
           <p style={{ fontSize: "0.75rem", color: "var(--color-text-muted)" }}>
             Built by{" "}
             <a
-              href="https://localsearchally.com"
-              target="_blank"
-              rel="noopener noreferrer"
+              href='https://localsearchally.com'
+              target='_blank'
+              rel='noopener noreferrer'
               style={{ textDecoration: "none" }}
             >
               <span style={{ color: "#ffffff" }}>Local Search</span>
